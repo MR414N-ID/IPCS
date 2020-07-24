@@ -1,6 +1,6 @@
 #Jangan ganti author , hargai creator cape loh buat nya
 
-import LIST.7z
+import LIST
 from LIST.id import *
 from LIST.it import *
 from LIST.jp import *
